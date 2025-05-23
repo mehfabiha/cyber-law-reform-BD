@@ -7,6 +7,7 @@ Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Ba
 **Student:** Meherun Fabiha  
 **Department:** Computer Science and Engineering  
 **Institution:** Hajee Mohammad Danesh Science and Technology University
+
 **Date:** 23rd May, 2025
 
 ## Summary
