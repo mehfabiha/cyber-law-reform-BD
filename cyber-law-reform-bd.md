@@ -1,6 +1,7 @@
 ### Course Title : Computer Ethics and Cyber law
 ### Course Code : CSE 455  
-### Assighment Title:Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
+### Assighment Title:
+Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in Bangladesh Based on Leading Global Examples
   
 ### Submitted By -
 Name : Meherun Fabiha  
